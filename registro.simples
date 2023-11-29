@@ -1,0 +1,17 @@
+programa declaracaoregistro
+    def
+       inteiro a
+       logico b
+    fimdef c
+
+    def
+       registro c z
+       logico f
+    fimdef g
+
+    inteiro a 
+    registro g y
+    
+inicio
+    escreva y.z.a
+fimprograma
